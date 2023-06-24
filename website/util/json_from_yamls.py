@@ -32,7 +32,7 @@ def create_albums_json(albums_dir, output_file):
                     track_info = read_yaml_file(os.path.join(track_path, 'info.yaml'))
                     track_info['id'] = int(track_dir)
                     track_info['image'] = f'/albums/{album_dir}/tracks/{track_dir}/visual.jpg'
-                    track_info['track'] = f'/albums/{album_dir}/tracks/{track_dir}/track.wav'
+                    track_info['track'] = f'/albums/{album_dir}/tracks/{track_dir}/track.mp3'
                     
                     tracks.append(track_info)
             

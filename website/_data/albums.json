@@ -13,7 +13,7 @@
                 "music": "Intense and dark, the track opens with thunderous drumming and distorted guitars, before a haunting melody is introduced on an ancient Greek lyre. The symphony gradually builds with strings and choir to create an orchestral wall of sound.",
                 "id": 1,
                 "image": "/albums/1/tracks/1/visual.jpg",
-                "track": "/albums/1/tracks/1/track.wav"
+                "track": "/albums/1/tracks/1/track.mp3"
             },
             {
                 "title": "Echoes of Elysium",
@@ -21,7 +21,7 @@
                 "music": "This track starts with a serene and harmonious blend of lyre, flutes, and gentle percussion, slowly layering with ethereal synth sounds to create a feeling of peace and otherworldliness. It maintains a gentle crescendo, leading to a powerful, orchestral finale.",
                 "id": 2,
                 "image": "/albums/1/tracks/2/visual.jpg",
-                "track": "/albums/1/tracks/2/track.wav"
+                "track": "/albums/1/tracks/2/track.mp3"
             },
             {
                 "title": "River Styx Serenade",
@@ -29,7 +29,7 @@
                 "music": "A slow, mournful tune begins on a solitary electric guitar, coupled with soft, rolling drums mimicking the sound of oars dipping in water. The melody is carried over to a bouzouki, with the eeriness amplified by an echoing, atmospheric synth.",
                 "id": 3,
                 "image": "/albums/1/tracks/3/visual.jpg",
-                "track": "/albums/1/tracks/3/track.wav"
+                "track": "/albums/1/tracks/3/track.mp3"
             },
             {
                 "title": "Tartarus Tremors",
@@ -37,7 +37,7 @@
                 "music": "This track is heavy and dissonant, filled with powerful, distorted guitar riffs, pounding drums, and disconcerting, chaotic effects. The sound of clanging chains can be heard as part of the percussion, punctuating the atmospheric dread.",
                 "id": 4,
                 "image": "/albums/1/tracks/4/visual.jpg",
-                "track": "/albums/1/tracks/4/track.wav"
+                "track": "/albums/1/tracks/4/track.mp3"
             },
             {
                 "title": "Asphodel Ascendance",
@@ -45,7 +45,7 @@
                 "music": "Beginning with an echoing, simple melody on the lyre, the track slowly builds with layers of guitars and strings, gradually transforming from somber to hopeful. The drums lead the rhythm, giving a sense of journey and ascendance towards a more positive, major-key resolution.",
                 "id": 5,
                 "image": "/albums/1/tracks/5/visual.jpg",
-                "track": "/albums/1/tracks/5/track.wav"
+                "track": "/albums/1/tracks/5/track.mp3"
             }
         ]
     },
@@ -63,7 +63,7 @@
                 "music": "An upbeat electronic track featuring punchy beats and synth lines, layered with 8-bit sound effects and interspersed with bone-themed percussions.",
                 "id": 1,
                 "image": "/albums/2/tracks/1/visual.jpg",
-                "track": "/albums/2/tracks/1/track.wav"
+                "track": "/albums/2/tracks/1/track.mp3"
             },
             {
                 "title": "Nuclear Countdown",
@@ -71,7 +71,7 @@
                 "music": "A high-energy instrumental with driving drum beats and frantic strings, punctuated by ticking clock sound effects and intense synth builds.",
                 "id": 2,
                 "image": "/albums/2/tracks/2/visual.jpg",
-                "track": "/albums/2/tracks/2/track.wav"
+                "track": "/albums/2/tracks/2/track.mp3"
             },
             {
                 "title": "DOOM Dog's Day",
@@ -79,7 +79,7 @@
                 "music": "A heavy metal instrumental with crushing guitar riffs, thunderous drum fills, and ominous synth sounds creating an atmosphere of exhilarating chaos.",
                 "id": 3,
                 "image": "/albums/2/tracks/3/visual.jpg",
-                "track": "/albums/2/tracks/3/track.wav"
+                "track": "/albums/2/tracks/3/track.mp3"
             },
             {
                 "title": "Okakoro Sonata",
@@ -87,7 +87,7 @@
                 "music": "A calming instrumental featuring soft piano melodies and ambient synth pads, with a comforting rhythm created by softly played drums and a gentle bass line.",
                 "id": 4,
                 "image": "/albums/2/tracks/4/visual.jpg",
-                "track": "/albums/2/tracks/4/track.wav"
+                "track": "/albums/2/tracks/4/track.mp3"
             },
             {
                 "title": "Yubi-Yubi Finale",
@@ -95,7 +95,7 @@
                 "music": "An orchestral piece combining heroic brass sections, dramatic strings, and playful chiptune elements, culminating in a grand, climactic finish.",
                 "id": 5,
                 "image": "/albums/2/tracks/5/visual.jpg",
-                "track": "/albums/2/tracks/5/track.wav"
+                "track": "/albums/2/tracks/5/track.mp3"
             }
         ]
     },
@@ -113,7 +113,7 @@
                 "music": "A haunting solo violin melody, backed by delicate piano chords and subtle string harmonies, building up to a mysterious and contemplative soundscape that mirrors Sherlock's profound thoughts.",
                 "id": 1,
                 "image": "/albums/3/tracks/1/visual.jpg",
-                "track": "/albums/3/tracks/1/track.wav"
+                "track": "/albums/3/tracks/1/track.mp3"
             },
             {
                 "title": "Watson's War Echoes",
@@ -121,7 +121,7 @@
                 "music": "A deeply emotional piece beginning with a solemn French horn solo, later joined by strings and a distant military snare drum, encapsulating Watson's past, courage, and loyalty.",
                 "id": 2,
                 "image": "/albums/3/tracks/2/visual.jpg",
-                "track": "/albums/3/tracks/2/track.wav"
+                "track": "/albums/3/tracks/2/track.mp3"
             },
             {
                 "title": "The Labyrinth of London",
@@ -129,7 +129,7 @@
                 "music": "A suspenseful and atmospheric piece with dissonant string harmonies, eerie woodwinds, harpsichord, and background sounds of Big Ben chimes to portray the mysteries and secrets of the city.",
                 "id": 3,
                 "image": "/albums/3/tracks/3/visual.jpg",
-                "track": "/albums/3/tracks/3/track.wav"
+                "track": "/albums/3/tracks/3/track.mp3"
             },
             {
                 "title": "Holmes's Game of Shadows",
@@ -137,7 +137,7 @@
                 "music": "A fast-paced, intense orchestral piece with rapid violin passages, syncopated percussion, and sudden dynamic shifts, reflecting the excitement and intellectual thrill of the detective's deductions.",
                 "id": 4,
                 "image": "/albums/3/tracks/4/visual.jpg",
-                "track": "/albums/3/tracks/4/track.wav"
+                "track": "/albums/3/tracks/4/track.mp3"
             },
             {
                 "title": "The Final Resolution",
@@ -145,7 +145,7 @@
                 "music": "An epic orchestral piece that starts with a quiet, thoughtful piano and violin duet, eventually swelling into a triumphant crescendo with full brass, symbolizing the satisfaction of solving the case.",
                 "id": 5,
                 "image": "/albums/3/tracks/5/visual.jpg",
-                "track": "/albums/3/tracks/5/track.wav"
+                "track": "/albums/3/tracks/5/track.mp3"
             }
         ]
     },
@@ -163,7 +163,7 @@
                 "music": "A solemn, majestic orchestral piece with lush strings, grand brass, gentle harp, and a soft choir. The melody is carried by a solo cello, signifying the lone, majestic presence of the Erdtree.",
                 "id": 1,
                 "image": "/albums/4/tracks/1/visual.jpg",
-                "track": "/albums/4/tracks/1/track.wav"
+                "track": "/albums/4/tracks/1/track.mp3"
             },
             {
                 "title": "Grace of Gold",
@@ -171,7 +171,7 @@
                 "music": "A serene and uplifting piece, carried by a solo violin, with soft strings, ethereal woodwinds, and gentle harp plucks providing a harmonious backdrop.",
                 "id": 2,
                 "image": "/albums/4/tracks/2/visual.jpg",
-                "track": "/albums/4/tracks/2/track.wav"
+                "track": "/albums/4/tracks/2/track.mp3"
             },
             {
                 "title": "Crucible's Echo",
@@ -179,7 +179,7 @@
                 "music": "A mysterious and ancient-sounding track, featuring a mix of traditional and non-traditional instruments, including a deep, rumbling drum, a haunting dulcimer, and an ethereal choir.",
                 "id": 3,
                 "image": "/albums/4/tracks/3/visual.jpg",
-                "track": "/albums/4/tracks/3/track.wav"
+                "track": "/albums/4/tracks/3/track.mp3"
             },
             {
                 "title": "Battle of the Giants",
@@ -187,7 +187,7 @@
                 "music": "A high-intensity, rhythmic piece featuring full orchestra and choir, with thunderous percussion, urgent strings, and heroic brass.",
                 "id": 4,
                 "image": "/albums/4/tracks/4/visual.jpg",
-                "track": "/albums/4/tracks/4/track.wav"
+                "track": "/albums/4/tracks/4/track.mp3"
             },
             {
                 "title": "Tears of the Erdtree",
@@ -195,7 +195,7 @@
                 "music": "A melancholic yet beautiful piece, featuring a solo piano carrying the main theme, complemented by a subtle string ensemble and an ethereal, wordless choir.",
                 "id": 5,
                 "image": "/albums/4/tracks/5/visual.jpg",
-                "track": "/albums/4/tracks/5/track.wav"
+                "track": "/albums/4/tracks/5/track.mp3"
             }
         ]
     },
@@ -213,7 +213,7 @@
                 "music": "A slow-building ambient track with layered synth pads creating an atmosphere of mystery and unease. Sparse, echoing piano notes punctuate the soundscape, accompanied by distant, ethereal strings.",
                 "id": 1,
                 "image": "/albums/5/tracks/1/visual.jpg",
-                "track": "/albums/5/tracks/1/track.wav"
+                "track": "/albums/5/tracks/1/track.mp3"
             },
             {
                 "title": "Lodge of the Mind",
@@ -221,7 +221,7 @@
                 "music": "An unsettling, atmospheric piece. Dark, droning synths underpin a dissonant melody played on a detuned piano, punctuated by discordant string stabs and ethereal choir harmonies.",
                 "id": 2,
                 "image": "/albums/5/tracks/2/visual.jpg",
-                "track": "/albums/5/tracks/2/track.wav"
+                "track": "/albums/5/tracks/2/track.mp3"
             },
             {
                 "title": "Diner at Dusk",
@@ -229,7 +229,7 @@
                 "music": "A melancholic jazz-infused piece featuring a laid-back upright bass line, brushed drum loops, and a lonely, echoing trumpet melody. Ambient city sounds and soft diner chatter are subtly woven into the background.",
                 "id": 3,
                 "image": "/albums/5/tracks/3/visual.jpg",
-                "track": "/albums/5/tracks/3/track.wav"
+                "track": "/albums/5/tracks/3/track.mp3"
             },
             {
                 "title": "Through the Curtains",
@@ -237,7 +237,7 @@
                 "music": "A dreamlike, cinematic composition featuring reversed harp and piano sequences layered over warm, resonant synth drones. Occasional chiming bell tones and soft percussive hits add a sense of enigmatic mystery.",
                 "id": 4,
                 "image": "/albums/5/tracks/4/visual.jpg",
-                "track": "/albums/5/tracks/4/track.wav"
+                "track": "/albums/5/tracks/4/track.mp3"
             },
             {
                 "title": "Cherry Pie Reverie",
@@ -245,7 +245,7 @@
                 "music": "A warm, nostalgic piece featuring a gentle, fingerpicked acoustic guitar melody, backed by soft strings and brushed drums. Occasional vibraphone notes and a lulling accordion lend a whimsical, slightly surreal quality to the track.",
                 "id": 5,
                 "image": "/albums/5/tracks/5/visual.jpg",
-                "track": "/albums/5/tracks/5/track.wav"
+                "track": "/albums/5/tracks/5/track.mp3"
             }
         ]
     },
@@ -263,7 +263,7 @@
                 "music": "A haunting orchestral piece with melancholic strings and a pulsating synth bass line, interspersed with delicate chimes to represent the insects.",
                 "id": 1,
                 "image": "/albums/6/tracks/1/visual.jpg",
-                "track": "/albums/6/tracks/1/track.wav"
+                "track": "/albums/6/tracks/1/track.mp3"
             },
             {
                 "title": "Skitter's Symphony",
@@ -271,7 +271,7 @@
                 "music": "An escalating composition featuring a constant, anxious violin motif that builds in intensity, layered with percussive sounds mimicking insect wings and other arthropod movements.",
                 "id": 2,
                 "image": "/albums/6/tracks/2/visual.jpg",
-                "track": "/albums/6/tracks/2/track.wav"
+                "track": "/albums/6/tracks/2/track.mp3"
             },
             {
                 "title": "Leviathan's Arrival",
@@ -279,7 +279,7 @@
                 "music": "An epic orchestral track with heavy use of timpani and brass for the creature's looming presence, interspersed with frantic string passages to represent the city's panic and fear.",
                 "id": 3,
                 "image": "/albums/6/tracks/3/visual.jpg",
-                "track": "/albums/6/tracks/3/track.wav"
+                "track": "/albums/6/tracks/3/track.mp3"
             },
             {
                 "title": "Undersiders' Gambit",
@@ -287,7 +287,7 @@
                 "music": "An edgy, suspenseful track with electronic beats and distorted guitar riffs, reflecting the group's rebellious spirit and the tension of their operations.",
                 "id": 4,
                 "image": "/albums/6/tracks/4/visual.jpg",
-                "track": "/albums/6/tracks/4/track.wav"
+                "track": "/albums/6/tracks/4/track.mp3"
             },
             {
                 "title": "Ascension of Khepri",
@@ -295,7 +295,7 @@
                 "music": "A powerful and transformative piece, starting with the soft fluttering of string instruments that build up to a full orchestra with a choir, representing the scale of her control and the hope she brings to a desperate situation.",
                 "id": 5,
                 "image": "/albums/6/tracks/5/visual.jpg",
-                "track": "/albums/6/tracks/5/track.wav"
+                "track": "/albums/6/tracks/5/track.mp3"
             }
         ]
     }
