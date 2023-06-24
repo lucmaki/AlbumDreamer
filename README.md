@@ -1,2 +1,2 @@
 # AlbumDreamer
-![](readme_vid.mp4)
+![](/readme_vid.mp4)
