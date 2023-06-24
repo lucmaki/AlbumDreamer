@@ -5,10 +5,10 @@
 https://github.com/lucmaki/AlbumDreamer/assets/26182176/c0d0be82-0cba-4abc-bbcd-ae055b1752be
 
 ## TLDR
-An AI Pipeline. Generating text, images, music for generating music albums for any given concept.
+An AI Pipeline that employs text, images, music generation for creating musical albums for any concept of our choosing.
 
 ## Features
-- **Multimodal Coherence**: We have a text2text model serve as director, planning the narrative, soundscape and generate content for prompts that fit with one another.
+- **Multimodal Coherence through Text2Text Director**: We have a text2text model serve as director: planning the narrative, soundscape and generate content for image and music prompts that fit with one another. This director can easily be tweaked so that the user can guide the album creation process further than just "giving the concept"!
 - **30s Tracks**: With MusicGen model, 30s is the maximum for the context window. Using a sliding window, we can go beyond but with lowered temporal coherence. 
 - **Stylistic Visuals**: A fine-tuned text2img model + Lora are utilized to create a personalized style. 
 - **Website building**: Pages can be automatically built out of album data to be served through a static website.
