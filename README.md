@@ -1,2 +1,2 @@
 # AlbumDreamer
-WIP
+![](readme_vid.mp4)
