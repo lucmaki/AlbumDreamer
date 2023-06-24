@@ -18,4 +18,4 @@ An AI Pipeline that employs text, images, music generation for creating musical 
 ## Why?
 Powerful open source models are finally accessible for the triad of "text-to-X" modalities (text, visual and audio), I sought to combine their power into a project showcasing how combining multiple modalities can create a multi-sensory narrative experience that stimulates creativity while maintaining coherence. 
 
-For technical accomplishments: one of the main challenges this project aimed to surpass is consistency of quality and coherence in the face of long and multimodal generations. This process was successful; the results on the demo website not being cherry picked.
+For technical accomplishments: one of the main challenges for this project was consistency of quality, coherence and creativity in the face of long and multimodal generations. The project appears successful in taht regard; the results on the demo website are not cherry picked and were created with no supervisation.
