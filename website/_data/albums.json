@@ -1,0 +1,302 @@
+[
+    {
+        "title": "Riffs from the Underworld",
+        "topic": "Hades The Metalhead",
+        "description": "Embark on an epic auditory journey with five unique instrumental pieces. Each track paints a distinct soundscape, taking you from the imposing, powerful gates of the underworld to the serene, ethereal Elysium fields. Traverse the murky River Styx and tremble at the depths of Tartarus, before ascending towards the hopeful Asphodel skies. All brought to life through a blend of heavy metal intensity and the grandeur of ancient Greek instruments and symphony.",
+        "imagery": "Lone figure shrouded in black, holding a fiery electric guitar under a night sky. Behind him, an obsidian palace and a river winding into spectral fields under a blood-red sky.",
+        "id": 1,
+        "cover": "/albums/1/cover.jpg",
+        "tracks": [
+            {
+                "title": "Underworld Overture",
+                "imagery": "An imposing, obsidian-black palace under a blood-red sky, the gateway to the underworld. Flames dance, casting long, eerie shadows. In the distance, skeletal trees and spectral figures under the twilight.",
+                "music": "Intense and dark, the track opens with thunderous drumming and distorted guitars, before a haunting melody is introduced on an ancient Greek lyre. The symphony gradually builds with strings and choir to create an orchestral wall of sound.",
+                "id": 1,
+                "image": "/albums/1/tracks/1/visual.jpg",
+                "track": "/albums/1/tracks/1/track.wav"
+            },
+            {
+                "title": "Echoes of Elysium",
+                "imagery": "Verdant fields and golden skies, but with an ethereal, almost dreamlike quality. Souls of the virtuous roam free, appearing as glowing specters, peaceful amidst the celestial landscape.",
+                "music": "This track starts with a serene and harmonious blend of lyre, flutes, and gentle percussion, slowly layering with ethereal synth sounds to create a feeling of peace and otherworldliness. It maintains a gentle crescendo, leading to a powerful, orchestral finale.",
+                "id": 2,
+                "image": "/albums/1/tracks/2/visual.jpg",
+                "track": "/albums/1/tracks/2/track.wav"
+            },
+            {
+                "title": "River Styx Serenade",
+                "imagery": "A wide, murky river under a starless sky. A lone figure rows a boat, ferrying spectral passengers. The water is mirror-like, reflecting the ghostly, phosphorescent figures.",
+                "music": "A slow, mournful tune begins on a solitary electric guitar, coupled with soft, rolling drums mimicking the sound of oars dipping in water. The melody is carried over to a bouzouki, with the eeriness amplified by an echoing, atmospheric synth.",
+                "id": 3,
+                "image": "/albums/1/tracks/3/visual.jpg",
+                "track": "/albums/1/tracks/3/track.wav"
+            },
+            {
+                "title": "Tartarus Tremors",
+                "imagery": "A dark, ominous pit with flashes of lightning revealing monstrous silhouettes. Chains and the ruins of mighty fortifications hint at the torment and punishment within.",
+                "music": "This track is heavy and dissonant, filled with powerful, distorted guitar riffs, pounding drums, and disconcerting, chaotic effects. The sound of clanging chains can be heard as part of the percussion, punctuating the atmospheric dread.",
+                "id": 4,
+                "image": "/albums/1/tracks/4/visual.jpg",
+                "track": "/albums/1/tracks/4/track.wav"
+            },
+            {
+                "title": "Asphodel Ascendance",
+                "imagery": "Fields of asphodel flowers under a twilight sky, a pathway of stars leading upwards. Transparent souls ascend, their forms flickering like fireflies.",
+                "music": "Beginning with an echoing, simple melody on the lyre, the track slowly builds with layers of guitars and strings, gradually transforming from somber to hopeful. The drums lead the rhythm, giving a sense of journey and ascendance towards a more positive, major-key resolution.",
+                "id": 5,
+                "image": "/albums/1/tracks/5/visual.jpg",
+                "track": "/albums/1/tracks/5/track.wav"
+            }
+        ]
+    },
+    {
+        "title": "Bone Beats and Pixelated Dreams",
+        "topic": "Inugami Korone",
+        "description": "Dive into the vibrant beats and whimsical melodies of a unique digital adventure, translated into a sonic journey. Each track, an ode to a world that blends fantasy and gaming, propels the listener through energetic cityscapes, frantic object collections, chaotic battles, peaceful nights, and triumphant conclusions. Immerse yourself in the unpredictable rhythm of this one-of-a-kind experience.",
+        "imagery": "Cybernetic cityscape bathed in neon lights, silhouette of brown-haired dog-girl in a white dress on a rooftop, holding a gleaming golden joystick against an epic swirl of pixelated stars.",
+        "id": 2,
+        "cover": "/albums/2/cover.jpg",
+        "tracks": [
+            {
+                "title": "Canine Beats",
+                "imagery": "Vibrant cityscape at dusk with neon signs, a silhouette of a dancing girl with brown hair, dog ears, in a white dress on the rooftop, controller in one hand, boxing gloves in the other.",
+                "music": "An upbeat electronic track featuring punchy beats and synth lines, layered with 8-bit sound effects and interspersed with bone-themed percussions.",
+                "id": 1,
+                "image": "/albums/2/tracks/1/visual.jpg",
+                "track": "/albums/2/tracks/1/track.wav"
+            },
+            {
+                "title": "Nuclear Countdown",
+                "imagery": "A room filled with scattered objects, a 60-second timer on a retro television screen, a focused girl with brown hair, dog ears, in a white dress collecting items.",
+                "music": "A high-energy instrumental with driving drum beats and frantic strings, punctuated by ticking clock sound effects and intense synth builds.",
+                "id": 2,
+                "image": "/albums/2/tracks/2/visual.jpg",
+                "track": "/albums/2/tracks/2/track.wav"
+            },
+            {
+                "title": "DOOM Dog's Day",
+                "imagery": "A twisted version of a classic game scene, with a young girl wielding a massive gun against hellish creatures, brown hair, dog ears, white dress, her eyes filled with excitement.",
+                "music": "A heavy metal instrumental with crushing guitar riffs, thunderous drum fills, and ominous synth sounds creating an atmosphere of exhilarating chaos.",
+                "id": 3,
+                "image": "/albums/2/tracks/3/visual.jpg",
+                "track": "/albums/2/tracks/3/track.wav"
+            },
+            {
+                "title": "Okakoro Sonata",
+                "imagery": "A warm, homely scene with two girls, one with brown hair, dog ears, in a white dress, the other with cat ears, playing video games together, surrounded by a serene night sky.",
+                "music": "A calming instrumental featuring soft piano melodies and ambient synth pads, with a comforting rhythm created by softly played drums and a gentle bass line.",
+                "id": 4,
+                "image": "/albums/2/tracks/4/visual.jpg",
+                "track": "/albums/2/tracks/4/track.wav"
+            },
+            {
+                "title": "Yubi-Yubi Finale",
+                "imagery": "An epic final scene of a game with a brown-haired girl in a white dress reaching for a golden joystick amidst a swirl of colorful pixels, her eyes twinkling with determination.",
+                "music": "An orchestral piece combining heroic brass sections, dramatic strings, and playful chiptune elements, culminating in a grand, climactic finish.",
+                "id": 5,
+                "image": "/albums/2/tracks/5/visual.jpg",
+                "track": "/albums/2/tracks/5/track.wav"
+            }
+        ]
+    },
+    {
+        "title": "Symphony of Shadows: Echoes from the Hounds of Baskerville",
+        "topic": "Sherlock Holmes",
+        "description": "Dive into the suspense, thrill, and resolution of our dynamic duo's gripping adventures through the foggy labyrinth of Victorian London. Five evocative compositions sweep you into the heart of their world, capturing the essence of each character, the intensity of their challenges, and the satisfaction of their victories. Listen and be transported back to the timeless mystery and allure of Sherlock Holmes's universe.",
+        "imagery": "Victorian skyline shrouded in mystery and fog, lit by the eerie glow of a full moon. In the foreground, the silhouettes of a stern man with a deerstalker hat, holding a magnifying glass, and a sturdy figure with a medical bag, their shadows stretching towards the city as if reaching out to solve its secrets.",
+        "id": 3,
+        "cover": "/albums/3/cover.jpg",
+        "tracks": [
+            {
+                "title": "Baker Street Reverie",
+                "imagery": "An intimate view of Sherlock's study room in 221B Baker Street at dusk. Silhouettes of scattered papers, books, and chemistry equipment are visible against the glow of a single oil lamp. The violin rests against an armchair, waiting to be played.",
+                "music": "A haunting solo violin melody, backed by delicate piano chords and subtle string harmonies, building up to a mysterious and contemplative soundscape that mirrors Sherlock's profound thoughts.",
+                "id": 1,
+                "image": "/albums/3/tracks/1/visual.jpg",
+                "track": "/albums/3/tracks/1/track.wav"
+            },
+            {
+                "title": "Watson's War Echoes",
+                "imagery": "A battlefield under the twilight sky, the calm after a storm, with Watson's silhouette outlined against a horizon marked by the scars of war.",
+                "music": "A deeply emotional piece beginning with a solemn French horn solo, later joined by strings and a distant military snare drum, encapsulating Watson's past, courage, and loyalty.",
+                "id": 2,
+                "image": "/albums/3/tracks/2/visual.jpg",
+                "track": "/albums/3/tracks/2/track.wav"
+            },
+            {
+                "title": "The Labyrinth of London",
+                "imagery": "Aerial view of a foggy Victorian London at dawn. The labyrinthine city streets appear like a giant puzzle, waiting to unfold its mysteries.",
+                "music": "A suspenseful and atmospheric piece with dissonant string harmonies, eerie woodwinds, harpsichord, and background sounds of Big Ben chimes to portray the mysteries and secrets of the city.",
+                "id": 3,
+                "image": "/albums/3/tracks/3/visual.jpg",
+                "track": "/albums/3/tracks/3/track.wav"
+            },
+            {
+                "title": "Holmes's Game of Shadows",
+                "imagery": "An elaborate mind map on a chalkboard, connecting clues from a recent case. Shadows dance on the board, mirroring the mental acrobatics of Sherlock.",
+                "music": "A fast-paced, intense orchestral piece with rapid violin passages, syncopated percussion, and sudden dynamic shifts, reflecting the excitement and intellectual thrill of the detective's deductions.",
+                "id": 4,
+                "image": "/albums/3/tracks/4/visual.jpg",
+                "track": "/albums/3/tracks/4/track.wav"
+            },
+            {
+                "title": "The Final Resolution",
+                "imagery": "Sherlock and Watson standing over the River Thames at sunset, their silhouettes marked by the day's end. The tranquility signifies the resolution of another perplexing mystery.",
+                "music": "An epic orchestral piece that starts with a quiet, thoughtful piano and violin duet, eventually swelling into a triumphant crescendo with full brass, symbolizing the satisfaction of solving the case.",
+                "id": 5,
+                "image": "/albums/3/tracks/5/visual.jpg",
+                "track": "/albums/3/tracks/5/track.wav"
+            }
+        ]
+    },
+    {
+        "title": "Symphony of the Gilded Twilight",
+        "topic": "The Erdtree",
+        "description": "This is a journey through a land touched by the divine and scarred by the ancient, a land where life and death intertwine. Each track is a chapter of its tale: a melody of quiet majesty, an anthem of grace, echoes of primordial times, a symphony of grand conflict, and a lament for a fading age. Prepare to be immersed in the diverse, haunting, and beautiful soundscapes of this land.",
+        "imagery": "Majestic golden tree towering above a vast, twilight-hued landscape; surreal swirls of color in the sky, reflecting the tree's golden glow; silhouettes of strange, mystical creatures roaming the land below.",
+        "id": 4,
+        "cover": "/albums/4/cover.jpg",
+        "tracks": [
+            {
+                "title": "Erdtree's Elegy",
+                "imagery": "A panoramic view of the Lands Between with the towering Erdtree at the center, bathed in golden light, with its roots stretching across the land, and its branches reaching towards the sky.",
+                "music": "A solemn, majestic orchestral piece with lush strings, grand brass, gentle harp, and a soft choir. The melody is carried by a solo cello, signifying the lone, majestic presence of the Erdtree.",
+                "id": 1,
+                "image": "/albums/4/tracks/1/visual.jpg",
+                "track": "/albums/4/tracks/1/track.wav"
+            },
+            {
+                "title": "Grace of Gold",
+                "imagery": "Close-up of an inhabitant's eyes reflecting the golden light of the Erdtree, symbolizing the blessing of the Elden Ring, against the backdrop of a serene landscape.",
+                "music": "A serene and uplifting piece, carried by a solo violin, with soft strings, ethereal woodwinds, and gentle harp plucks providing a harmonious backdrop.",
+                "id": 2,
+                "image": "/albums/4/tracks/2/visual.jpg",
+                "track": "/albums/4/tracks/2/track.wav"
+            },
+            {
+                "title": "Crucible's Echo",
+                "imagery": "A primordial scene with a glowing, red-tinted Crucible at the center, surrounded by ancient creatures and humans exhibiting features like feathers, scales, and knots.",
+                "music": "A mysterious and ancient-sounding track, featuring a mix of traditional and non-traditional instruments, including a deep, rumbling drum, a haunting dulcimer, and an ethereal choir.",
+                "id": 3,
+                "image": "/albums/4/tracks/3/visual.jpg",
+                "track": "/albums/4/tracks/3/track.wav"
+            },
+            {
+                "title": "Battle of the Giants",
+                "imagery": "An epic scene of the Giant War, with the Erdtree in the background, and Fire Giants and their Fell God clashing against Queen Marika's forces.",
+                "music": "A high-intensity, rhythmic piece featuring full orchestra and choir, with thunderous percussion, urgent strings, and heroic brass.",
+                "id": 4,
+                "image": "/albums/4/tracks/4/visual.jpg",
+                "track": "/albums/4/tracks/4/track.wav"
+            },
+            {
+                "title": "Tears of the Erdtree",
+                "imagery": "A scene of the Erdtree in its age of abundance, with golden sap dripping from its boughs, forming into amber, the most precious jewel in the time of Godfrey, the first Elden Lord.",
+                "music": "A melancholic yet beautiful piece, featuring a solo piano carrying the main theme, complemented by a subtle string ensemble and an ethereal, wordless choir.",
+                "id": 5,
+                "image": "/albums/4/tracks/5/visual.jpg",
+                "track": "/albums/4/tracks/5/track.wav"
+            }
+        ]
+    },
+    {
+        "title": "Whispers in the Pines: A Symphonic Odyssey",
+        "topic": "Twin Peaks",
+        "description": "Journey into the heart of a town where reality blurs with dreams and secrets whisper in the wind. Each track takes you deeper into the enigmatic world, through haunting forests, ethereal lodges, and surrealist spaces, capturing the mystery, the charm, and the unsettling beauty of the place and its tales.",
+        "imagery": "Moody twilight forest, checkerboard floor seamlessly merging into natural soil, red curtains hanging from the trees, a single white owl perched atop a vintage jukebox.",
+        "id": 5,
+        "cover": "/albums/5/cover.jpg",
+        "tracks": [
+            {
+                "title": "Shadows on the Lake",
+                "imagery": "A serene yet eerie lake under a twilight sky, cast in deep purples and blues. A single white swan glides across the water, leaving an unsettling ripple in its wake.",
+                "music": "A slow-building ambient track with layered synth pads creating an atmosphere of mystery and unease. Sparse, echoing piano notes punctuate the soundscape, accompanied by distant, ethereal strings.",
+                "id": 1,
+                "image": "/albums/5/tracks/1/visual.jpg",
+                "track": "/albums/5/tracks/1/track.wav"
+            },
+            {
+                "title": "Lodge of the Mind",
+                "imagery": "A labyrinthine forest at night, the trees forming patterns that evoke the winding corridors of a massive, otherworldly lodge. The moon glows red in the sky.",
+                "music": "An unsettling, atmospheric piece. Dark, droning synths underpin a dissonant melody played on a detuned piano, punctuated by discordant string stabs and ethereal choir harmonies.",
+                "id": 2,
+                "image": "/albums/5/tracks/2/visual.jpg",
+                "track": "/albums/5/tracks/2/track.wav"
+            },
+            {
+                "title": "Diner at Dusk",
+                "imagery": "A warmly lit 50s-style diner seen from outside. The neon sign is reflected on the wet asphalt, and the sky is a mix of warm oranges and purples. Inside, silhouettes hint at a secret rendezvous.",
+                "music": "A melancholic jazz-infused piece featuring a laid-back upright bass line, brushed drum loops, and a lonely, echoing trumpet melody. Ambient city sounds and soft diner chatter are subtly woven into the background.",
+                "id": 3,
+                "image": "/albums/5/tracks/3/visual.jpg",
+                "track": "/albums/5/tracks/3/track.wav"
+            },
+            {
+                "title": "Through the Curtains",
+                "imagery": "A heavy red velvet curtain shimmers in an undefined space. The curtain is partly drawn to reveal a surreal landscape of reversed waterfalls and floating orbs of light.",
+                "music": "A dreamlike, cinematic composition featuring reversed harp and piano sequences layered over warm, resonant synth drones. Occasional chiming bell tones and soft percussive hits add a sense of enigmatic mystery.",
+                "id": 4,
+                "image": "/albums/5/tracks/4/visual.jpg",
+                "track": "/albums/5/tracks/4/track.wav"
+            },
+            {
+                "title": "Cherry Pie Reverie",
+                "imagery": "An immaculate cherry pie sits atop a checkered tablecloth, with a single slice revealing the vibrant red filling. In the glossy surface of the pie, the entire town of Twin Peaks is reflected.",
+                "music": "A warm, nostalgic piece featuring a gentle, fingerpicked acoustic guitar melody, backed by soft strings and brushed drums. Occasional vibraphone notes and a lulling accordion lend a whimsical, slightly surreal quality to the track.",
+                "id": 5,
+                "image": "/albums/5/tracks/5/visual.jpg",
+                "track": "/albums/5/tracks/5/track.wav"
+            }
+        ]
+    },
+    {
+        "title": "Harmonies of the Parahuman: A Worm Soundscape",
+        "topic": "Worm: The Web Serial",
+        "description": "From the haunting nocturne of a city alive with superpowers, to the symphony of a girl amidst a swirling vortex of insects, to the towering arrival of a water-bound monstrosity, this album captures the sonic essence of a world both extraordinary and terrifying. Each track brings to life the rebellious spirit of a band of misfits, and the transformative ascension of a figure controlling countless beings across dimensions.",
+        "imagery": "Solitary figure in black and white, silhouetted against a multi-colored, kaleidoscopic sky filled with swirling insects. A cityscape shadowed in the background.",
+        "id": 6,
+        "cover": "/albums/6/cover.jpg",
+        "tracks": [
+            {
+                "title": "Brockton Bay Nocturne",
+                "imagery": "A nighttime cityscape viewed from above, with various districts subtly differentiated - upscale neighborhoods, grimy industrial areas, neglected slums. The city is suffused with a soft, eerie luminescence from thousands of insects, all under the control of a solitary figure on a rooftop.",
+                "music": "A haunting orchestral piece with melancholic strings and a pulsating synth bass line, interspersed with delicate chimes to represent the insects.",
+                "id": 1,
+                "image": "/albums/6/tracks/1/visual.jpg",
+                "track": "/albums/6/tracks/1/track.wav"
+            },
+            {
+                "title": "Skitter's Symphony",
+                "imagery": "A girl standing amidst a swirling vortex of insects, her face a mask of determination. The background alternates between the chaos of a city in turmoil and the quiet solitude of her loft.",
+                "music": "An escalating composition featuring a constant, anxious violin motif that builds in intensity, layered with percussive sounds mimicking insect wings and other arthropod movements.",
+                "id": 2,
+                "image": "/albums/6/tracks/2/visual.jpg",
+                "track": "/albums/6/tracks/2/track.wav"
+            },
+            {
+                "title": "Leviathan's Arrival",
+                "imagery": "A towering monstrosity rising from the ocean, dwarfing the city before it. Waves crash around it, and storm clouds gather overhead, casting an ominous shadow over the scene.",
+                "music": "An epic orchestral track with heavy use of timpani and brass for the creature's looming presence, interspersed with frantic string passages to represent the city's panic and fear.",
+                "id": 3,
+                "image": "/albums/6/tracks/3/visual.jpg",
+                "track": "/albums/6/tracks/3/track.wav"
+            },
+            {
+                "title": "Undersiders' Gambit",
+                "imagery": "A group of misfit teenagers, each with their own distinct style and symbol, planning their next move in a graffiti-covered hideout. They look determined but also nervous, highlighting the high stakes of their plans.",
+                "music": "An edgy, suspenseful track with electronic beats and distorted guitar riffs, reflecting the group's rebellious spirit and the tension of their operations.",
+                "id": 4,
+                "image": "/albums/6/tracks/4/visual.jpg",
+                "track": "/albums/6/tracks/4/track.wav"
+            },
+            {
+                "title": "Ascension of Khepri",
+                "imagery": "A figure, transformed and radiant, stands before an array of portals, each showing glimpses of different dimensions. The figure's arms are outstretched, controlling countless heroes and villains from across the multiverse.",
+                "music": "A powerful and transformative piece, starting with the soft fluttering of string instruments that build up to a full orchestra with a choir, representing the scale of her control and the hope she brings to a desperate situation.",
+                "id": 5,
+                "image": "/albums/6/tracks/5/visual.jpg",
+                "track": "/albums/6/tracks/5/track.wav"
+            }
+        ]
+    }
+]

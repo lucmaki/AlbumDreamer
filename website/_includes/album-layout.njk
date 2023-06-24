@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>{{ album.title }} - AlbumDreamer</title>
+    <link rel="stylesheet" href="/css/styles.css">
+  </head>
+  <header>
+      <a href="/">
+        <div class="logo-section">
+          <img src="/logo.png" alt="Logo">
+          <h1>AlbumDreamer</h1>
+        </div>
+      </a>
+    <h2>Dreams up music albums for any concept given!</h2>
+    <nav>
+      <a href="/about">About</a>
+    </nav>
+  </header>
+  <body>
+    <div class="album-info">
+      <img src="{{ album.cover }}" alt="{{ album.title }}">
+      <h1>{{ album.title }}</h1>
+      <p>{{ album.topic }}</p>
+      <p>{{ album.description }}</p>
+    </div>
+
+
+    <div class="tracks-grid">
+      {% for track in album.tracks %}
+        <div class="track-row">
+          <div class="track-image">
+            <img src="{{ track.image }}" alt="{{ track.title }}">
+          </div>
+          <div class="track-content">
+            <div class="track-info">
+              <h2>{{ track.title }}</h2>
+              <p>{{ track.imagery }}</p>
+              <p>{{ track.soundscape }}</p>
+            </div>
+            <div class="track-player">
+              <audio controls>
+                <source src="{{ track.track }}" type="audio/mpeg">
+                Your browser does not support the audio element.
+              </audio>
+            </div>
+          </div>
+        </div>
+      {% endfor %}
+    </div>
+  </body>
+</html>
