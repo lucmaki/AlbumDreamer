@@ -8,7 +8,7 @@ https://github.com/lucmaki/AlbumDreamer/assets/26182176/c0d0be82-0cba-4abc-bbcd-
 An AI Pipeline that employs text, images, music generation for creating musical albums for any concept of our choosing.
 
 ## Features
-- **Text2Text Director for Multimodal Coherence**: A text2text model (recommended GPT4) serves as a director: analysing the concept, planning the soundscape, generating content including image and music prompts so that everything fits together.
+- **Text2Text Director for Multimodal Coherence**: A text2text model (recommended GPT4) serves as a director: analysing the concept, planning the soundscape, generating content including image and music prompts so that everything fits together with a kind of narrative flow.
 - **Modular Director**: This director can easily be tweaked thanks to loose modular prompt templates. The user might want to input more data than just "the concept", if wants more advanced control over the creation process.
 - **30s Tracks**: With MusicGen model, 30s is the maximum for the context window. Using a sliding window, we can go beyond but with lowered temporal coherence. 
 - **Stylized Images**: While the director controls the prompt, part of the prompt is fixed based on our configuration for consistent style. In our case, we also employed a fine-tuned text2img model + custom Lora for further stylization. 
