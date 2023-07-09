@@ -11,8 +11,8 @@ A generative AI Pipeline that employs text-to-text, text-to-image and text-to-mu
 - **Text2Text Director for Multimodal Coherence**: A text2text model (recommended GPT4) serves as a director: analysing the concept, planning the soundscape, generating content including image and music prompts so that everything fits together with a kind of narrative flow.
 - **Modular Director**: This director can easily be tweaked thanks to loose modular prompt templates. The user might want to input more data than just "the concept", if wants more advanced control over the creation process.
 - **30sec Tracks**: With MusicGen model, 30s is the maximum for the context window. Using a sliding window, we can go beyond but with lowered temporal coherence. 
-- **Stylized Images**: While the director controls the prompt, part of the prompt is fixed based on our configuration for consistent style. In our case, we also employed a fine-tuned text2img model + custom Lora for further stylization. 
-- **Database Building**: (WIP) Pipeline generations can be stored in a SQL database for further processing/distribution.
+- **Stylized Images**: We employ a fine-tuned text2img model + custom Lora + textual inversion + custom prompt, for further stylization. 
+- **SQL Storage**: Pipeline generations can be stored in a SQL database with some setup.
   
 ## Results
 For now no eval has been performed, but you can judge the demo website's albums which were not cherry picked and generated with no supervision except for the varied topics picked.
