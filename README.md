@@ -5,7 +5,7 @@
 https://github.com/lucmaki/AlbumDreamer/assets/26182176/c0d0be82-0cba-4abc-bbcd-ae055b1752be
 
 ## TLDR
-A generative AI Pipeline that employs text-to-text, text-to-image and text-to-music models for creating musical albums for any concept of our choosing. The planning phase before generating allows the album's tracks to be diverse and narratively tied.
+A generative AI Pipeline that employs text-to-text, text-to-image and text-to-music models for creating musical albums for any concept of our choosing. Through an AI director planning phase, the album's tracks gain cohesion between one another, with diversity and narrative flows.
 
 ## Features
 - **Overarching Director**: A text2text model serves as a director: analyses the concept, plans the soundscape, and generates prompts so that everything fits together with a kind of narrative flow.
