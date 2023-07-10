@@ -12,7 +12,7 @@ A generative AI Pipeline that employs text-to-text, text-to-image and text-to-mu
 - **Modular Director**: The director can easily be tweaked thanks to loose modular prompt templates. For example: for inputting more data than just "the concept".
 - **30sec Tracks**: With MusicGen model, 30s is the maximum for the context window. Going beyond with a sliding window leads to lowered temporal coherence. 
 - **Stylized Images**: We employ a fine-tuned text2img model + custom Lora + textual inversion + custom prompt, for further stylization. 
-- **SQL Storage**: Pipeline generations can be stored in a SQL database with some setup.
+- **SQL Storage**: For mass generation with the pipeline. Requires additional setup for image and music storage.
   
 ## Results
 For now no eval was performed, but you can qualitatively judge the demo website's albums which were not cherry picked and generated with no supervision except for the varied topics picked.
