@@ -15,7 +15,7 @@ A generative AI Pipeline that employs text-to-text, text-to-image and text-to-mu
 - **SQL Storage**: For mass generation with the pipeline. Requires additional setup for image and music storage.
   
 ## Results
-For now no eval was performed, but you can qualitatively judge the demo website's albums which were not cherry picked and generated with no supervision except for the varied topics picked.
+You can qualitatively judge the demo website's albums which were not cherry picked and generated with no supervision except for the choice of topics.
 
 Specs wise, all models but the GPT-4 model used are open source (so, a high amount of control and customization is possible) and small enough for each to be loadable within 16GB VRAM. Also, the time to generate an album depends on hardware and whether models are preloaded. With a Nvidia V100 GPU and subtracting time to load models into memory, it takes around 5 minutes to generate an album of five tracks.
 
