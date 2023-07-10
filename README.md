@@ -9,7 +9,7 @@ A generative AI Pipeline that employs text-to-text, text-to-image and text-to-mu
 
 ## Features
 - **Overarching Director**: A text2text model serves as a director: analyses the concept, plans the soundscape, and generates prompts so that everything fits together with a kind of narrative flow.
-- **Modular Director**: The director can easily be tweaked thanks to loose modular prompt templates. For example: for inputting more data than just "the concept".
+- **Modular Director**: The director can easily be tweaked thanks to loose modular prompt templates. For example: for inputting more data than just "the concept" or using GPT-4's browsing capabilities.
 - **30sec Tracks**: With MusicGen model, 30s is the maximum for the context window. Going beyond with a sliding window leads to lowered temporal coherence. 
 - **Stylized Images**: We employ a fine-tuned text2img model + custom Lora + textual inversion + custom prompt, for further stylization. 
 - **SQL Storage**: For mass generation with the pipeline. Requires additional setup for image and music storage.
