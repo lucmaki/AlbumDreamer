@@ -20,6 +20,6 @@ For now no eval has been performed, but you can judge the demo website's albums 
 Specs wise, all models but the GPT-4 model used are open source (so, a high amount of control and customization is possible) and small enough for each to be loadable within 16GB VRAM. Also, the time to generate an album depends on hardware and whether models are preloaded. With a Nvidia V100 GPU and subtracting time to load models into memory, it takes around 5 minutes to generate an album of five tracks.
 
 ## Why?
-Models are finally accessible for the triad of "text-to-X" modalities (text, visual and audio), I sought to combine their power into a project showcasing how combining multiple modalities can create a multi-sensory narrative experience that stimulates creativity while maintaining coherence.
+Models are finally accessible for the triad of "text-to-X" modalities (text, visual and audio), I aimed to combine their capabilities into a project showcasing how multiple generative modalities used together can create a multi-sensory narrative experience that's creatively stimulating and with high coherence.
 
 For technical accomplishments: one of the main challenges for this project was consistency of quality, coherence and creativity in the face of long and multimodal generations. The project appears successful in that regard.
